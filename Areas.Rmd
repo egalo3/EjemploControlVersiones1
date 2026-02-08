@@ -28,3 +28,10 @@ h <- 8
 AreaTriangulo <- (b*h)/2
 ```
 
+## Área Rectangulo
+```{r}
+b <- 7
+h <- 6
+AreaRectangulo <- b*h
+```
+
